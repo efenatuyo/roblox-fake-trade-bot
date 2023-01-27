@@ -8,3 +8,5 @@ uses advanced database to detect if user is logged in and running.
 just uploaded it cus some skid found it funny to scam lol?
 
 no cr needed :))
+
+if you don't know how to setup pls don't use this only req to install is discord_webhook and configparser enjoy
